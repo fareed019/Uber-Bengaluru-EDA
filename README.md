@@ -381,10 +381,10 @@ jupyter>=1.0.0
 
 ## 📞 Contact & Collaboration
 
-- **Author:** [Your Name]
-- **Email:** [Your Email]
-- **LinkedIn:** [Your LinkedIn Profile]
-- **GitHub:** [Your GitHub Username]
+- **Author:** Fareed Ahmad
+- **Email:** fareed019@yahoo.com
+- **LinkedIn:** https://www.linkedin.com/in/fareed019
+- **GitHub:** fareed019
 
 ### Contributing
 Contributions are welcome! Please feel free to:
@@ -424,7 +424,7 @@ If you use this dataset in your work, please cite:
 
 ---
 
-**Last Updated:** [Date]  
+**Last Updated:** 19/08/2026
 **Version:** 1.0.0  
 **Status:** ✅ Active & Maintained
 
